@@ -12,3 +12,20 @@
     width: 100%;
     background-color: #30444d;
 }
+
+a {
+    color: #be8c80;
+}
+
+a:hover {
+    color: #be8c80;
+}
+
+a:active {
+    color: #be8c80;
+    background-color:#30444d;
+}
+
+a:visited {
+    color: #30444d;
+}
