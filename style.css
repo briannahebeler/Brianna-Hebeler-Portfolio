@@ -5,16 +5,8 @@ body {
 #bg-img {
     background-image: url(./Assets/david-billings-Zmfz5jqgSiI-unsplash.jpg);
     background-repeat: no-repeat;
-     background-attachment: fixed;
+    background-attachment: fixed;
     background-position: center;
-}
-
-footer {
-    position: fixed;
-    height: 25px;
-    bottom: 0;
-    width: 100%;
-    background-color: #30444d;
 }
 
 #about-me {
@@ -35,22 +27,21 @@ a:visited {
     color: #30444d;
 }
 
-@media screen and (max-width: 768px) {
-    /* /* .container {
-        width: 100%;
-        padding: 20px;
-    }
-    .card {
-        width: 100% */
-    } */
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
 }
 
-@media screen and (max-width: 576px) {
-    /* .container {
-        width: 100%;
-        margin: auto 0;
-    }
-    .card {
-        width: 100%
-    } */
+.col-6 img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width:100%;
+}
+
+@media screen and (max-width: 576px) { 
+.col-6 {
+    flex: 100%;
+    max-width: 100%;
+}
 }
