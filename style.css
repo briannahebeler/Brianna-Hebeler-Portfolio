@@ -17,6 +17,10 @@ footer {
     background-color: #30444d;
 }
 
+#about-me {
+    float: left;
+}
+
 
 a:hover {
     color: #be8c80;
