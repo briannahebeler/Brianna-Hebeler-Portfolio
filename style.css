@@ -34,3 +34,23 @@ a:active {
 a:visited {
     color: #30444d;
 }
+
+@media screen and (max-width: 768px) {
+    /* /* .container {
+        width: 100%;
+        padding: 20px;
+    }
+    .card {
+        width: 100% */
+    } */
+}
+
+@media screen and (max-width: 576px) {
+    /* .container {
+        width: 100%;
+        margin: auto 0;
+    }
+    .card {
+        width: 100%
+    } */
+}
