@@ -33,6 +33,10 @@ a:visited {
     flex-wrap: wrap;
 }
 
+.col-6 {
+    margin-bottom: 8px;   
+}
+
 .col-6 img {
     margin-top: 8px;
     vertical-align: middle;
