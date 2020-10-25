@@ -1,3 +1,7 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
 #bg-img {
     background-image: url(./Assets/david-billings-Zmfz5jqgSiI-unsplash.jpg);
     background-repeat: no-repeat;
@@ -13,9 +17,11 @@
     background-color: #30444d;
 }
 
+/* label,
 a {
     color: #be8c80;
-}
+    font-weight: bold;
+} */
 
 a:hover {
     color: #be8c80;
