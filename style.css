@@ -7,9 +7,9 @@ body {
     background-repeat: no-repeat;
      background-attachment: fixed;
     background-position: center;
-  /* height: 100%; */
 }
-#footer {
+
+footer {
     position: fixed;
     height: 25px;
     bottom: 0;
@@ -17,11 +17,6 @@ body {
     background-color: #30444d;
 }
 
-/* label,
-a {
-    color: #be8c80;
-    font-weight: bold;
-} */
 
 a:hover {
     color: #be8c80;
