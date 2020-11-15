@@ -1,4 +1,4 @@
-# Homework02-Responsive-Portfolio
+# Brianna Hebeler Portfolio
 
 ## Description: ##
 
@@ -6,4 +6,4 @@
 
 
 ## Link to deployed application: ##
-* https://briannahebeler.github.io/Homework02-Responsive-Portfolio/
+* https://briannahebeler.github.io/Brianna-Hebeler-Portfolio/
