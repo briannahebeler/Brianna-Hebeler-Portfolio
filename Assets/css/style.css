@@ -43,6 +43,15 @@ a:visited {
     width:100%;
 }
 
+#deployProject1Btn,
+#repoProject1Btn {
+    border-color: #2196F3;
+    color: dodgerblue;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 5px;
+}
+
 @media screen and (max-width: 576px) { 
 .col-6,
 .col-9,
