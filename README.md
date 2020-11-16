@@ -1,4 +1,4 @@
-# Homework02-Responsive-Portfolio
+# Brianna Hebeler Portfolio
 
 ## Description: ##
 
