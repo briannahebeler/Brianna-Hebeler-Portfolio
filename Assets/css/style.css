@@ -3,7 +3,7 @@ body {
 }
 
 #bg-img {
-    background-image: url(./Assets/david-billings-Zmfz5jqgSiI-unsplash.jpg);
+    background-image: url(/Assets/images/background-image.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
