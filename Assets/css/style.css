@@ -43,12 +43,18 @@ a:visited {
     width:100%;
 }
 
-#deployProject1Btn,
-#repoProject1Btn,
-#deployHW5Btn,
-#repoHW5Btn, 
-#deployHW3Btn,
-#repoHW3Btn {
+#deploy1Btn,
+#repo1Btn,
+#deploy2Btn,
+#repo2Btn, 
+#deploy3Btn,
+#repo3Btn,
+#deploy4Btn,
+#repo4Btn,
+#deploy5Btn,
+#repo5Btn, 
+#deploy6Btn,
+#repo6Btn {
     border-color: #2196F3;
     color: dodgerblue;
     cursor: pointer;
@@ -57,13 +63,15 @@ a:visited {
 }
 
 .port-img {
-    width: 250px;
-    height: 250px;
+    width: 350px;
+    height: 350px;
 }
 
 .port-card {
-    height:550px;
+    /* height:550px; */
     text-align: center;
+    margin: 10px auto;
+    height: 600px;
 }
 
 @media screen and (max-width: 576px) { 
