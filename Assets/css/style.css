@@ -46,7 +46,9 @@ a:visited {
 #deployProject1Btn,
 #repoProject1Btn,
 #deployHW5Btn,
-#repoHW5Btn {
+#repoHW5Btn, 
+#deployHW3Btn,
+#repoHW3Btn {
     border-color: #2196F3;
     color: dodgerblue;
     cursor: pointer;
