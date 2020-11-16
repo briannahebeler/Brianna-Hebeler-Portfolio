@@ -3,10 +3,11 @@ body {
 }
 
 #bg-img {
-    background-image: url(../images/background-image.jpg);
+    background-image: url(../images/nebula.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
+    background-size: cover;
 }
 
 #about-me {
