@@ -44,12 +44,24 @@ a:visited {
 }
 
 #deployProject1Btn,
-#repoProject1Btn {
+#repoProject1Btn,
+#deployHW5Btn,
+#repoHW5Btn {
     border-color: #2196F3;
     color: dodgerblue;
     cursor: pointer;
     border-radius: 5px;
     margin: 5px;
+}
+
+.port-img {
+    width: 250px;
+    height: 250px;
+}
+
+.port-card {
+    height:550px;
+    text-align: center;
 }
 
 @media screen and (max-width: 576px) { 
