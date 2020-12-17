@@ -11,9 +11,6 @@
 ![](./public/Assets/images/port-port.png)
 ![](./public/Assets/images/port-contact.png)
 
-## Link to deployed application: ##
-* https://briannahebeler.github.io/Brianna-Hebeler-Portfolio/
-
 ## License
 This project is licensed under the MIT license.
 
