@@ -1,8 +1,5 @@
 body {
     font-family: 'Source Sans Pro', sans-serif;
-}
-
-#bg-img {
     background-image: url(../images/nebula.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
